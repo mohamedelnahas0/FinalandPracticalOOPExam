@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Final and Practical Exam/1.0.0": {
+        "runtime": {
+          "Final and Practical Exam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final and Practical Exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
